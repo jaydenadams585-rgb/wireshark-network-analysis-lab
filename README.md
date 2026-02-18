@@ -27,3 +27,13 @@ Observed communication between private IP addresses, indicating internal network
 
 ## What I Learned
 This lab helped me understand how network traffic flows, how analysts inspect packets, and how filtering helps isolate relevant traffic during investigations.
+## Screenshots
+
+### Live Packet Capture
+![Live Capture](capture.png)
+
+### TCP Filter Applied
+![TCP Filter](tcp-filter.png)
+
+### Packet Details Inspection
+![Packet Details](packet-details.png)
